@@ -1,3 +1,4 @@
-import './style.css'
+import './style.css';
+import './topics/01-basic-types'
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML ="Hola mundo"
+document.querySelector<HTMLDivElement>('#app')!.innerHTML = "Hola mundo";
